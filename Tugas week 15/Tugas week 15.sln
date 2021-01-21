@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas week 15", "Tugas week 15.csproj", "{6DDC65D0-D836-43F7-A3D3-C6F0E616A5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDC65D0-D836-43F7-A3D3-C6F0E616A5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDC65D0-D836-43F7-A3D3-C6F0E616A5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDC65D0-D836-43F7-A3D3-C6F0E616A5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDC65D0-D836-43F7-A3D3-C6F0E616A5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E009DBB-E73B-4078-94D0-B3768F308BB8}
+	EndGlobalSection
+EndGlobal
